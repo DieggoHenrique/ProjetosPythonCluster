@@ -1,6 +1,6 @@
 <h1 align="center">Projetos Python Cluster</h1>
 <p align="center"><i>Analise De Cluster Hierarquico.</i></p>
-
+![added-statistics-to-structure](https://raw.githubusercontent.com/balta-io/blog/main/documentacao-com-github/images/added-statistics-to-structure.jpg)
 Material complementar: A Beginner’s Guide to Hierarchical Clustering and how to Perform it in Python
 
 A análise de cluster é uma técnica estatística para agrupar indivíduos (pessoas, objetos, empresas, etc) em grupos homogênios, que sejam muito parecidos quando há a intenção de se verificar a existencia de comportamentos semelhantes entre as observações em relação a determinadas variáveis, é o objetivo de se criar grupos, ou clusters.
