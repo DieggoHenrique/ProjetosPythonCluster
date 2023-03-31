@@ -17,3 +17,80 @@ A análise de cluster é uma técnica estatística para agrupar indivíduos (pes
 As técnicas de análise de agrupamentos são consideradas exploratórias, ou de independência uma vez que suas caracteristicas não apresentam caráter preditivo.
 
 O pesquisador pode optar por elaborar uma análise de agrupamento quando tiver o objetivo de ordenar e alocar as observaçoes em grupos e, a partir de então, estudar a quantidade interessante de clusters formados, ou pode a priori, definir a quantidade de grupos que deseja formar embasado em determinado critério, e verificar como se comportam. Independente da natureza do objetivo, a análise continuará sendo exploratória.
+
+  ## Histórico de revisão
+
+<table>
+    <thead>
+        <th style="width: 25%;">
+            Data
+        </th>
+        <th style="width: 25%;">
+            Versão
+        </th>
+        <th style="width: 25%;">
+            Descrição
+        </th>
+        <th style="width: 25%;">
+            Participantes
+        </th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                10/08/2021
+            </td>
+            <td>
+                0.1
+            </td>
+            <td>
+                Criação do documento e preenchimento dos primeiros tópicos
+            </td>
+            <td>
+                Abiratan Lopes, Brewerton Santos, Gizele Bedaque, Juan Rodrigues
+            </td>
+        </tr>
+        <tr>
+            <td>
+                14/08/2021
+            </td>
+            <td>
+                0.2
+            </td>
+            <td>
+                Migração do documento visão e relatórios de reunião para o github. Criação de novas regras de negócio (2 à 12)
+            </td>
+            <td>
+                Abiratan Lopes, Brewerton Santos, Juan Rodrigues
+            </td>
+        </tr>
+        <tr>
+            <td>
+                17/08/2021
+            </td>
+            <td>
+                0.3
+            </td>
+            <td>
+                Desenvolvimento dos tópicos que estavam em branco (com exceção do item "4.1 - avaliação de concorrentes").
+            </td>
+            <td>
+                Abiratan Lopes, Brewerton Santos, Juan Rodrigues
+            </td>
+        </tr>
+        <tr>
+            <td>
+                21/08/2021
+            </td>
+            <td>
+                0.4
+            </td>
+            <td>
+                Criação do diagrama de classes e caso de uso de autenticação e cadastro de usuário; Adição de 2 novas regras de negócio (13, 14).
+            </td>
+            <td>
+                Abiratan Lopes, Brewerton Santos, Juan Rodrigues
+            </td>
+        </tr>
+    </tbody>
+</table>
